@@ -9,7 +9,7 @@ function Cuerpo(){
           <p>Hello Vite + React!</p>
          
           <p>
-            Edit <code>App.jsx</code> and Subido a Git Pages.
+            Edit <code>App.jsx</code> and Re-Subido a Git Pages.
           </p>
           <p>
             <a
