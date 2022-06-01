@@ -1,11 +1,11 @@
-// import logo from '../../logo.svg'
+import '/src/components/Cuerpo/Cuerpo.css';
 
 function Cuerpo(){
     return (
                 
         <div className="App">
         <header className="App-header">
-        
+          <img id="logoReact" src="/src/logo.svg" />
           <p>Hello Vite + React!</p>
          
           <p>
