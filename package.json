@@ -1,14 +1,19 @@
 {
   "name": "appvite",
   "private": true,
+  "homepage": "https://fmgambino.github.io/appReactCH",
   "version": "0.0.0",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"hg-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
     "bootstrap": "^5.2.0-beta1",
+    "gh": "^2.8.9",
+    "gh-pages": "^4.0.0",
     "react": "^18.0.0",
     "react-bootstrap": "^2.4.0",
     "react-dom": "^18.0.0"
