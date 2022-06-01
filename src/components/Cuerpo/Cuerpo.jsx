@@ -5,7 +5,7 @@ function Cuerpo(){
                 
         <div className="App">
         <header className="App-header">
-          <img id="logoReact" src="/src/logo.svg" />
+          <img id="logoReact" src="https://i.ibb.co/CwqhxHZ/logo-React.png" />
           <p>Hello Vite + React!</p>
          
           <p>

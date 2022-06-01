@@ -5,7 +5,7 @@ function LogoNavBar(){
     return (
       
     <a class="navbar-brand" href="#">
-       <img id="logoEG" src="/asset/img/logoEG.png" />
+       <img id="logoEG" src="https://i.ibb.co/82tVCJT/logoEG.png" />
        
     </a>
     

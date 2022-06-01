@@ -1,8 +1,10 @@
 #logoReact {
+  
   filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
-  width: 500px;
-  height: 500px;
-  animation: rotation 10s infinite linear;
+  width: 26.3rem;
+  height: 23.85rem;
+  animation: rotation 10s reverse infinite linear;
+  margin-bottom: 30px;
   }
 
   @keyframes rotation {
